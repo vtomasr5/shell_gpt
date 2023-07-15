@@ -19,6 +19,7 @@ class ModelOptions(str, Enum):
     GPT432k = "gpt-4-32k"
     GPT35TURBO = "gpt-3.5-turbo"
     GPT35TURBO16K = "gpt-3.5-turbo-16k"
+    VICUNA7B1_3 = "vicuna-7b-v1.3"
     VICUNA13B1_3 = "vicuna-13b-v1.3"
 
 
