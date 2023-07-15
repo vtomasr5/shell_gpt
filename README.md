@@ -4,7 +4,7 @@ A command-line productivity tool powered by OpenAI's GPT models. As developers, 
 https://user-images.githubusercontent.com/16740832/231569156-a3a9f9d4-18b1-4fff-a6e1-6807651aa894.mp4
 
 
-## Pre-requisites to use the Vicuna model
+## Pre-requisites to use the Vicuna model (https://github.com/lm-sys/FastChat)
 ```shell
 git clone https://github.com/lm-sys/FastChat.git
 pip install fschat
